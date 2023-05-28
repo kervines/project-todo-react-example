@@ -1,0 +1,22 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  background-color: #aaa;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+mark {
+  color: #666;
+  border-radius: 5px;
+  margin-left: 25px;
+  padding: 5px;
+}
